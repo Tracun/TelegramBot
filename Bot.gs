@@ -1,10 +1,12 @@
 var token = "539988385:AAFqdFTwVEA95xXeY4I1DvjfeLBRA1_5L44";
 var telegramURL = "https://api.telegram.org/bot" + token;
 
+/**/
+
 var tokenOpenWeather = "&appid=669578bfa54f61a0b2d719c271ee5b6f";
 var weatherURL = "http://api.openweathermap.org/data/2.5/weather?q=";
 
-var presentationList = ['hi', 
+ ['hi', 
 						'hello', 
 						'oi', 
 						'ola', 
